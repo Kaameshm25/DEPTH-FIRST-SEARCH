@@ -109,7 +109,7 @@ traversedpath = bfs(graph, start, visited, path)
 print(traversedpath)
 ```
 <hr>
-<h3>Sample Input</h3>
+<h3> Input</h3>
 <hr>
 2 6 <BR>
 5 8 <BR>
@@ -119,7 +119,7 @@ print(traversedpath)
 3 8 <BR>
 6 2 <BR>
 <hr>
-<h3>Sample Output</h3>
+<h3> Output</h3>
 <hr>
 <img width="62" height="150" alt="image" src="https://github.com/user-attachments/assets/e682d046-c02c-4c39-99ea-141632f766cd" />
 
