@@ -108,41 +108,21 @@ traversedpath = bfs(graph, start, visited, path)
 
 print(traversedpath)
 ```
-
 <hr>
 <h3>Sample Input</h3>
 <hr>
+2 6 <BR>
+5 8 <BR>
+5 5 <BR>
+4 6 <BR>
 7 9 <BR>
-A B <BR>
-A C <BR>
-A F <BR>
-C E <BR>
-C F <BR>
-C D <BR>
-D E <BR>
-D G <BR>
-G F <BR>
+3 8 <BR>
+6 2 <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-['A', 'B', 'C', 'F', 'E', 'D', 'G']
+<img width="62" height="150" alt="image" src="https://github.com/user-attachments/assets/e682d046-c02c-4c39-99ea-141632f766cd" />
 
-<hr>
-
-<hr>
-<h3>Sample Input</h3>
-<hr>
-5 6 <BR>
-0 1 <BR>
-0 2 <BR>
-1 2 <BR>
-1 3 <BR>
-2 4 <BR>
-3 4 <BR>
-<hr>
-<h3>Sample Output</h3>
-<hr>
-['0', '1', '2', '3', '4']
 <hr>
 <h3>Result:</h3>
 <hr>
